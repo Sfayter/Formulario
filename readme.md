@@ -1,4 +1,4 @@
-# Exercício cadastrar Novos Usuários no Banco de Dados - NodeJS
+Cadastrar Novos Usuários no Banco de Dados - NodeJS
 
 ### Instale as depêndencias:
 1. `npm init`
